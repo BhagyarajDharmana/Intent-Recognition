@@ -1,0 +1,6 @@
+******-------------------------------------------------------------------------------------------------------------------****** 
+Duration of the scene is: 30.6096 seconds
+Original Targets Numbers in the hole Scene: 17
+Number of Targets in the hole Scene after preprocessing: 40
+Number of static portions: 0
+******-------------------------------------------------------------------------------------------------------------------****** 

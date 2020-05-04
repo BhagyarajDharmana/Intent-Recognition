@@ -1,0 +1,9 @@
+******-------------------------------------------------------------------------------------------------------------------****** 
+Duration of the scene is: 9.0815 seconds
+Original Targets Numbers in the hole Scene: 2
+Number of Targets in the hole Scene after preprocessing: 2
+Number of static portions: 1
+******-------------------------------------------------------------------------------------------------------------------****** 
+TargetID: ID02
+Target can not be processed due to lack of Data
+******-------------------------------------------------------------------------------------------------------------------****** 
